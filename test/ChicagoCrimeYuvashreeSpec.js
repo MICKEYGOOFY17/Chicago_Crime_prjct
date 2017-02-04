@@ -68,4 +68,4 @@ describe("Test createInterface method of readline", function(err){
            sinon.assert.calledWith(stub,"close");
     });
 
- 	});
+});
